@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bonus!!!!
 - 👀 I’m interested in skidding people's work (fake)
-- 🌱 I’m currently learning cs, css, js, html
+- 🌱 I’m currently learning c family, js, html
 - 💞️ I’m looking to collaborate on skidding!
 - 📫 How to reach me: dm me in discord : `._bonus_.` (don't expect instant responsing)
 - 😄 Pronouns: she/her or bonus
