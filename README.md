@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning c family, js, html
 - 💞️ I’m looking to collaborate on skidding!
 - 📫 How to reach me: dm me in discord : `_immira_` (don't expect instant responsing)
-- 😄 Pronouns: she/her or bonus
+- 😄 Pronouns: she/her or mira
 - ⚡ Fun fact: 99% of work on my github are skidded!
