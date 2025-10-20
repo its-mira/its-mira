@@ -1,7 +1,2 @@
-- 👋 Hi, I’m Mira!!!!
-- 👀 I’m interested in skidding people's work (fake)
-- 🌱 I’m currently learning c family, js, html
-- 💞️ I’m looking to collaborate on skidding!
-- 📫 How to reach me: dm me in discord : `_immira_` (don't expect instant responsing)
-- 😄 Pronouns: she/her or mira
-- ⚡ Fun fact: 99% of work on my github are skidded!
+hi what u doing here
+discord: `_immira_`
